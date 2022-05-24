@@ -1,5 +1,5 @@
 
-jp.keijiro.apriltag - AprilTag package for Unity(Improve : Find the mid point)
+jp.keijiro.apriltag - AprilTag package for Unity(Improve : Find the midpoint)
 ================================================
 result:
 
